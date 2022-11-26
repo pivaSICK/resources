@@ -8,7 +8,7 @@
 
 [Skylr's Kovaaks Stuffs](https://www.dropbox.com/sh/44gu6yjvnr8m22t/AACJeZEKBAkR_VbmEinFUbzTa?dl=0)
 
-"TS:
+**TS:**
 Viscose: KovaaKsWipingBuffedCamper
 Gored speed - KovaaKsReloadingDinkedOptic
 Trippez speed TS 1 – KovaaKsJumpingGodlikeXur
@@ -48,4 +48,3 @@ RX STATIC: KovaaKsTrackingMagentaDunk
 
 4BK TARGETCLICK: KovaaKsTrackingMagentaDunk
 
-"
