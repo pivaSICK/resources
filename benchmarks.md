@@ -6,10 +6,13 @@ Intermediate complete - KovaaKsClickingRandomEnrage
 
 ## [revosect](http://bit.ly/rAbenchmarks)
 Easy (Bronze - Emerald)
+
 Clicking - KovaaKsPlunderingShinyStrike  
 Switching - KovaaKsPoppingSilverLoadout  
 Tracking - KovaaKsPullingSkyblueDps  
+
 Advanced (Diamond - Divine)
+
 Clicking - KovaaKsPushingSlipperyBm  
 Switching - KovaaKsQuestingSlipperySeason    
 Tracking - KovaaKsRaidingSlowHip    
