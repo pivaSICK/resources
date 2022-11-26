@@ -1,4 +1,4 @@
-##**Community staff's**
+## **Community staff's**
 
 [officialpure resources](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
 
