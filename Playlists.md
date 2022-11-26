@@ -1,1 +1,1 @@
-**[officialpure resources](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
+**1[officialpure resources](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
