@@ -4,11 +4,12 @@ Community-driven benchmark scenarios that are used for measuring relative aim pr
 Easy complete - KovaaKsClearingPulledModifier
 Intermediate complete - KovaaKsClickingRandomEnrage
 
-## [revosect easy](http://bit.ly/rAbenchmarks)
+## [revosect](http://bit.ly/rAbenchmarks)
+[
 Clicking - KovaaKsPlunderingShinyStrike  
 Switching - KovaaKsPoppingSilverLoadout  
 Tracking - KovaaKsPullingSkyblueDps  
-
+]
 ## [revosect hard](http://bit.ly/rAbenchmarks)
 Clicking - KovaaKsPushingSlipperyBm  
 Switching - KovaaKsQuestingSlipperySeason    
