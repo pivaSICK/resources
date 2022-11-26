@@ -17,6 +17,10 @@ Clicking - KovaaKsPushingSlipperyBm
 Switching - KovaaKsQuestingSlipperySeason    
 Tracking - KovaaKsRaidingSlowHip    
 
+## [voltaic season 1](https://docs.google.com/spreadsheets/d/1ryYzfXr36RlQ9-dkGSzeeCfKJ7DhQrXWx8VUwmX0cA4/edit#gid=316103388)
+
+## [voltaic season 2](https://docs.google.com/spreadsheets/d/1XbXf8Q_WTW5ekxuZWhvO64-kvNBvusqX3bghhBaok4I/edit#gid=1655895202)
+
 ## [voltaic season 3](http://bit.ly/VTBenchmarks)
 Intermediate complete - KovaaKsFlickingFastCashdrop      
 Advanced complete - KovaaKsFlashingFarFinisher    
