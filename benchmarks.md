@@ -35,7 +35,8 @@ Boss Level - KovaaKsBouncingRandomCapture
 Boss+ Level - KovaaKsDodgingNastyXur
 
 ## [e1se Smooth Benchmark Sheet 1.0](https://docs.google.com/spreadsheets/d/1IXyjASZHs8yaVgS_os0wMLuvHIdZ2L8wrah_ShjXQ7w/edit#gid=1975632889)
-Normal - KovaaKsRaidingCaffeinatedFullbuyHard - KovaaKsPoppingBurntorangeHeaven
+Normal - KovaaKsRaidingCaffeinatedFullbuy
+Hard - KovaaKsPoppingBurntorangeHeaven
 
 
 
