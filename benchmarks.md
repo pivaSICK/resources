@@ -4,7 +4,7 @@ Community-driven benchmark scenarios that are used for measuring relative aim pr
 Easy complete - KovaaKsClearingPulledModifier
 Intermediate complete - KovaaKsClickingRandomEnrage
 
-## [revosect](http://bit.ly/rAbenchmarks)
+## [revosect (rA)](http://bit.ly/rAbenchmarks)
 Easy (Bronze - Emerald)
 
 Clicking - KovaaKsPlunderingShinyStrike  
