@@ -5,12 +5,11 @@ Easy complete - KovaaKsClearingPulledModifier
 Intermediate complete - KovaaKsClickingRandomEnrage
 
 ## [revosect](http://bit.ly/rAbenchmarks)
-[
+Easy (Bronze - Emerald)
 Clicking - KovaaKsPlunderingShinyStrike  
 Switching - KovaaKsPoppingSilverLoadout  
 Tracking - KovaaKsPullingSkyblueDps  
-]
-## [revosect hard](http://bit.ly/rAbenchmarks)
+Advanced (Diamond - Divine)
 Clicking - KovaaKsPushingSlipperyBm  
 Switching - KovaaKsQuestingSlipperySeason    
 Tracking - KovaaKsRaidingSlowHip    
