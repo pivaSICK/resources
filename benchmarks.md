@@ -22,6 +22,7 @@ Intermediate complete - KovaaKsFlickingFastCashdrop
 Advanced complete - KovaaKsFlashingFarFinisher    
 
 ## [Deadmans Static Benchmarks Beta](https://docs.google.com/spreadsheets/d/1CXpRFmKdAPqvzvsUXjMdMY9uRmesu-3bsNEu-Oismzg/edit#gid=1947681947)
+
 Level 1 - KovaaKsTrollingSepiaNano
 Level 2 - KovaaKsBombingPlumXur
 Level 3 - KovaaKsBoomstickingPrismaticOfftank
