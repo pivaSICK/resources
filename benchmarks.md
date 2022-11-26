@@ -23,7 +23,12 @@ Tracking - KovaaKsRaidingSlowHip
 
 ## [voltaic season 3](http://bit.ly/VTBenchmarks)
 Intermediate complete - KovaaKsFlickingFastCashdrop      
-Advanced complete - KovaaKsFlashingFarFinisher    
+Advanced complete - KovaaKsFlashingFarFinisher
+
+## [voltaic season 4](https://docs.google.com/spreadsheets/d/1qUzF2KHcfs_FgsaDFRfGsLgHhoC1Md5bzMOUbsYzSjg/edit#gid=1424876562)
+Novice - KovaaKsClearingPetulantScoutrifle
+Intermediate - KovaaKsCrackingPrismaticPull
+Advanced - KovaaKsCrankingPulledGauntlet
 
 ## [Deadmans Static Benchmarks Beta](https://docs.google.com/spreadsheets/d/1CXpRFmKdAPqvzvsUXjMdMY9uRmesu-3bsNEu-Oismzg/edit#gid=1947681947)
 Level 1 - KovaaKsTrollingSepiaNano
