@@ -10,8 +10,11 @@
 
 **TS:**
 Viscose: KovaaKsWipingBuffedCamper
+
 Gored speed - KovaaKsReloadingDinkedOptic
+
 Trippez speed TS 1 – KovaaKsJumpingGodlikeXur
+
 Trippez speed TS 2 – KovaaKsKillstreakingGoldenochreOfftank
 
 HNA:
@@ -36,8 +39,11 @@ Ridd reactive smooth - KovaaKsChatfraggingBadFullbuy
 Skylr smoothness - KovaaKsPerfectingOlivegreenSkybot
 
 Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile
+
 Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest
+
 Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur
+
 Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
 
 
