@@ -14,13 +14,14 @@ Gored speed - KovaaKsReloadingDinkedOptic
 Trippez speed TS 1 – KovaaKsJumpingGodlikeXur
 Trippez speed TS 2 – KovaaKsKillstreakingGoldenochreOfftank
 
-HNA: KovaaKsBaitingTurquoiseBait
+HNA:
+KovaaKsBaitingTurquoiseBait
 KovaaKsBackflippingThinDiff
 KovaaKsAscendingTealImpact
 
 4BK - Corrective Flicking: KovaaKsScreamingJitteryClient
 
-Reactive:
+**Reactive:**
 
 Trippez gtg fast 1: KovaaKsGriefingGearedController
 
@@ -28,7 +29,7 @@ Shmn: KovaaKsBotting90Cinematic
 
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven
 
-Smoothness:
+**Smoothness:**
 
 Ridd reactive smooth - KovaaKsChatfraggingBadFullbuy
 
@@ -40,7 +41,7 @@ Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur
 Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
 
 
-Static & TargetClick:
+**Static & TargetClick:**
 
 4BK STATIC : KovaaKsSneakingFuchsiaImpact
 
