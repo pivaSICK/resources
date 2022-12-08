@@ -18,7 +18,7 @@ This resource page is for sharing personal resoults and bunch of different playl
 ## Was the template helpful?
 
 [![GitHub stars](https://img.shields.io/github/stars/pivaSICK/project-template.svg?style=social)](https://github.com/pivaSICK/resources/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/Josee9988/project-template.svg?style=social)](https://github.com/pivaSICK/resources/watchers)
+[![GitHub watchers](https://img.shields.io/github/watchers/pivaSICK/project-template.svg?style=social)](https://github.com/pivaSICK/resources/watchers)
 
 * _Created by **[@pivaSICK](https://github.com/pivaSICK)**_
 * _Assisted by **[@pr3ttyleaf](https://twitch.tv/pr3ttyleaf)**_
