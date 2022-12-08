@@ -7,10 +7,10 @@
 
 ## **TS**:
 
-Viscose: `KovaaKsWipingBuffedCamper`
-Gored speed - `KovaaKsReloadingDinkedOptic`
-Trippez speed TS 1 – `KovaaKsJumpingGodlikeXur`
-Trippez speed TS 2 – `KovaaKsKillstreakingGoldenochreOfftank`
+* Viscose: `KovaaKsWipingBuffedCamper`
+* Gored speed - `KovaaKsReloadingDinkedOptic`
+* Trippez speed TS 1 – `KovaaKsJumpingGodlikeXur`
+* Trippez speed TS 2 – `KovaaKsKillstreakingGoldenochreOfftank`
 
 __HNA__:
 * `KovaaKsBaitingTurquoiseBait`
