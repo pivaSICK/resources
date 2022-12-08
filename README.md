@@ -10,7 +10,6 @@ This resource page is for sharing personal resoults and bunch of different playl
 
 ## Socials
 - [Twitch](https://twitch.tv/pivaSICK/)
-- [Editor](https://twitch.tv/pr3ttyleaf)
 
 ## Sponsorship
 - get one of the best quality services as system optimization and etc [here](https://discord.gg/P7tunKjzNC)
