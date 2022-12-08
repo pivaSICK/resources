@@ -2,7 +2,7 @@
 
 This resource page is for sharing personal resoults and bunch of different playlists, benchmarks and etc, which may actually help people, too.
 
-## [Benchmakrs](https://github.com/pivaSICK/resources/blob/main/benchmarks.md)
+## [Benchmarks](https://github.com/pivaSICK/resources/blob/main/benchmarks.md)
 
 ## [Playlists](https://github.com/pivaSICK/resources/blob/main/Playlists.md)
 
